@@ -1,0 +1,15 @@
+{
+  "series": "New Version",
+  "channel": "new-version",
+  "versionCode": 103,
+  "versionName": "1.0",
+  "displayName": "Weechy — New Version 1.0",
+  "tag": "new-version-1.0",
+  "releaseTag": "new-version-1.0",
+  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-1.0/Weechy-1.0-New-version.apk",
+  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-1.0",
+  "sha256": "bb6939f003c21479039b81e5ea0450e06f6d57860becfa4370e54554b3ad3727",
+  "isMandatory": true,
+  "mandatory": true,
+  "notes": "Weechy New Version 1.0 release."
+}
