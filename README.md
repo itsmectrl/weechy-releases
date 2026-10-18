@@ -6,7 +6,7 @@ Official APK releases for **Weechy**, a lightweight local music player for Andro
 
 The current available release is:
 
-**New Version 1.2**
+**New Version 1.3**
 
 Download Weechy from the official website:
 
@@ -26,11 +26,11 @@ The SHA-256 checksum of the APK is provided with the release.
 Linux / macOS:
 
 ```bash
-sha256sum Weechy-1.2-New-version.apk
+sha256sum Weechy-1.3-New-version.apk
 ```
 
 Windows:
 
 ```cmd
-certutil -hashfile Weechy-1.2-New-version.apk SHA256
+certutil -hashfile Weechy-1.3-New-version.apk SHA256
 ```
