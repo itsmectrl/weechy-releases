@@ -1,16 +1,16 @@
 {
   "series": "New Version",
   "channel": "new-version",
-  "versionCode": 300,
-  "versionName": "3.0",
-  "displayName": "Weechy — New Version 3.0",
-  "tag": "new-version-3.0",
-  "releaseTag": "new-version-3.0",
-  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-3.0/Weechy-3.0-New-version.apk",
-  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-3.0",
-  "sha256": "0bac1a3c16ef7c32692fa1b0c08a6030a17ac24cae61ecf2b27673d8d93a7649",
+  "versionCode": 310,
+  "versionName": "3.1",
+  "displayName": "Weechy — New Version 3.1",
+  "tag": "new-version-3.1",
+  "releaseTag": "new-version-3.1",
+  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-3.1/Weechy-3.1-New-version.apk",
+  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-3.1",
+  "sha256": "1037e6336ea8b3c2d63491078a8d9131c4581ce872536bb9378bad84621eb412",
   "certSha256": "",
   "isMandatory": true,
   "mandatory": true,
-  "notes": "Weechy New Version 3.0: Google Drive Cloud Library integration (stream, download, upload, and sync cloud music), dynamic album-adaptive player UI with artwork color extraction and ambient glow, synchronized LRC lyrics, and Spotify metadata enrichment."
+  "notes": "Weechy Version 3.1 — New Version Upgrade:\n- 1:1 Omnipresent Player Drag Gestures: Smooth downward dismissal from anywhere inside the player.\n- Reorganized Lyrics Interface: Zero component overlap and clean header design.\n- Clean Queue Sheet: Removed duplicate Shuffle & Repeat controls.\n- Absolute version lock 3.1 (310)."
 }
