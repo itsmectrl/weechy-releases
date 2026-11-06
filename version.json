@@ -1,16 +1,16 @@
 {
   "series": "New Version",
   "channel": "new-version",
-  "versionCode": 107,
-  "versionName": "2.0",
-  "displayName": "Weechy — New Version 2.0",
-  "tag": "new-version-2.0",
-  "releaseTag": "new-version-2.0",
-  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-2.0/Weechy-2.0-New-version.apk",
-  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-2.0",
-  "sha256": "7afc5249d3a127e46e7f44824aa97a52443fd814021dd9591511c411ccd3109d",
+  "versionCode": 300,
+  "versionName": "3.0",
+  "displayName": "Weechy — New Version 3.0",
+  "tag": "new-version-3.0",
+  "releaseTag": "new-version-3.0",
+  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-3.0/Weechy-3.0-New-version.apk",
+  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-3.0",
+  "sha256": "0bac1a3c16ef7c32692fa1b0c08a6030a17ac24cae61ecf2b27673d8d93a7649",
   "certSha256": "",
   "isMandatory": true,
   "mandatory": true,
-  "notes": "Weechy New Version 2.0: Google Drive Cloud Library integration (stream, download, upload, and sync cloud music), dynamic album-adaptive player UI with artwork color extraction and ambient glow, synchronized LRC lyrics, and Spotify metadata enrichment."
+  "notes": "Weechy New Version 3.0: Google Drive Cloud Library integration (stream, download, upload, and sync cloud music), dynamic album-adaptive player UI with artwork color extraction and ambient glow, synchronized LRC lyrics, and Spotify metadata enrichment."
 }
