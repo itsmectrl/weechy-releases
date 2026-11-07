@@ -1,16 +1,16 @@
 {
   "series": "New Version",
   "channel": "new-version",
-  "versionCode": 310,
-  "versionName": "3.1",
-  "displayName": "Weechy — New Version 3.1",
-  "tag": "new-version-3.1",
-  "releaseTag": "new-version-3.1",
-  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-3.1/Weechy-3.1-New-version.apk",
-  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-3.1",
-  "sha256": "1037e6336ea8b3c2d63491078a8d9131c4581ce872536bb9378bad84621eb412",
+  "versionCode": 400,
+  "versionName": "4.0",
+  "displayName": "Weechy — New Version 4.0",
+  "tag": "new-version-4.0",
+  "releaseTag": "new-version-4.0",
+  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-4.0/Weechy-v4.0.apk",
+  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-4.0",
+  "sha256": "df613b1a29134893d551fd04187621671e723ce7b8b3bdcc4d7c8ab7e70aa0df",
   "certSha256": "",
   "isMandatory": true,
   "mandatory": true,
-  "notes": "Weechy Version 3.1 — New Version Upgrade:\n- 1:1 Omnipresent Player Drag Gestures: Smooth downward dismissal from anywhere inside the player.\n- Reorganized Lyrics Interface: Zero component overlap and clean header design.\n- Clean Queue Sheet: Removed duplicate Shuffle & Repeat controls.\n- Absolute version lock 3.1 (310)."
+  "notes": "Weechy Version 4.0 — New Version Upgrade:\n- 1:1 Omnipresent Player Drag Gestures & Smooth Artwork Swiping.\n- Real 400% Audio Amplification with Peak Limiter.\n- Corrected Queue Playback Modes & Direct Previous/Next Track Skipping.\n- Enhanced Album Covers in Songs List.\n- Absolute version lock 4.0 (400)."
 }
