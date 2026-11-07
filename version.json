@@ -1,16 +1,16 @@
 {
   "series": "New Version",
   "channel": "new-version",
-  "versionCode": 400,
-  "versionName": "4.0",
-  "displayName": "Weechy — New Version 4.0",
-  "tag": "new-version-4.0",
-  "releaseTag": "new-version-4.0",
-  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-4.0/Weechy-v4.0.apk",
-  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-4.0",
-  "sha256": "df613b1a29134893d551fd04187621671e723ce7b8b3bdcc4d7c8ab7e70aa0df",
+  "versionCode": 410,
+  "versionName": "4.1",
+  "displayName": "Weechy — New Version 4.1",
+  "tag": "new-version-4.1",
+  "releaseTag": "new-version-4.1",
+  "apkUrl": "https://github.com/itsmectrl/weechy-releases/releases/download/new-version-4.1/Weechy-4.1-New-version.apk",
+  "pageUrl": "https://github.com/itsmectrl/weechy-releases/releases/tag/new-version-4.1",
+  "sha256": "36dbdd4c7333e2c4a347bcaf1726251de7ce2f4b2095de4c38c52fe954b8ad4c",
   "certSha256": "",
   "isMandatory": true,
   "mandatory": true,
-  "notes": "Weechy Version 4.0 — New Version Upgrade:\n- 1:1 Omnipresent Player Drag Gestures & Smooth Artwork Swiping.\n- Real 400% Audio Amplification with Peak Limiter.\n- Corrected Queue Playback Modes & Direct Previous/Next Track Skipping.\n- Enhanced Album Covers in Songs List.\n- Absolute version lock 4.0 (400)."
+  "notes": "Weechy Version 4.1 — New Version Upgrade:\n- Resolved Player Bottom Sheet vs. Album Artwork gesture conflict with strict touch-slop direction locking.\n- 1:1 Omnipresent Player Drag Gestures & Smooth Artwork Swiping.\n- Real 400% Audio Amplification with Peak Limiter.\n- Corrected Queue Playback Modes & Direct Previous/Next Track Skipping.\n- Enhanced Album Covers in Songs List.\n- Absolute version lock 4.1 (410)."
 }
